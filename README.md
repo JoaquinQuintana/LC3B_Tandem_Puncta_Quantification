@@ -16,5 +16,5 @@ also be viewed by calling or opening the structure Results_Table.
 
 NOTE: Each cell line is different and each optical system is as well. Users should experimentally determine the parameters to use for their data. A helper function is provided with the code to help users access and identify parameters for their data called  VolumeThresholdhelper. 
 
-NOTE: Users can use MATLABs publishing option to capture all the outputs (recommended) for all figures created by the subfunctions above or place a waitfor() call after each figure to observe the results of each figure created as the processing is occuring. See MATLABs documentation for publishing options and using watifor(). See github account for an example 
+Users can use MATLABs publishing option to capture all the outputs (recommended) for all figures created by the subfunctions above or place a waitfor() call after each figure to observe the results of each figure created as the processing is occuring. See MATLABs documentation for publishing options and using watifor(). See github account for an example 
 of the published output. 
