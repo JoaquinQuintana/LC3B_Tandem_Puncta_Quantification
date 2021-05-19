@@ -5,11 +5,7 @@ LC3B_Tandem_Puncta_QuantificationV2 is a batch processing function used to ident
 
 The file calls the functions:
 
-userInputs 
-imreadVolume
-Watershed2
-FindVaculoes
-TabularCountVacuoles
+userInputs, imreadVolume, Watershed2, FindVaculoes, TabularCountVacuoles
 
 Data for single cell analysis is reported as the number of eGFP and mCherry vacuoles counted for each cell and is printed to the command window along with the fileName the data was extracted from and the cellindex corresponding to which cell the vacuoles were found in with respect to the image used. This data is returned as a table to the command window and can 
 also be viewed by calling or opening the structure Results_Table. 
